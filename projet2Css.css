@@ -1,0 +1,41 @@
+body {
+	margin:auto;
+font-family:Lucida;background-image: url(sky.jpg);
+}
+.bouton{margin-top: 20px;
+	background-color: yellow; 
+	border-style: solid; 
+	width: 70px; height: 70px;
+	font-size: 13px;
+	;font-family: monospace;
+}
+
+a{
+	text-decoration: none
+}
+
+.logo{ 
+	margin-left:20px;margin-top:10px; 
+	width:97px; height:75px; border-radius: 100%;
+}
+
+table {
+	margin-top: 60px; border-collapse: separate; border-spacing:15px 15px;
+}
+
+.hibou{font-family: monospace; font-size: 13px; 
+	border-color: #FFE4C4; color: #FFE4C4; width: 250px; height:210px; border-style:dotted; 
+	border-color: #FFE4C4;
+}
+
+.rond>img {
+	border-radius: 100%;
+width: 250px;  height: 250px;
+}
+.liens { color : #FFE4C4;
+	; text-decoration: none; 
+	margin-bottom: 20px; 
+}
+.copyright {
+	font-size: 15px;color: #FFE4C4;
+}
